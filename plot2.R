@@ -17,6 +17,3 @@ with(subpowerdt,plot(datetime,Global_active_power,
 dev.off()
 
 
-
-##OR
-#with(subpowerdt, hist(Global_active_power, main="Global Active Power",col="red",xlab="Global Active Power (kilowatts)"))
